@@ -7,6 +7,11 @@ namespace WorkShopV8
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Deck deck = new Deck();
+            deck.PrintDeck();
+
+            Console.ReadKey();
         }
     }
 }

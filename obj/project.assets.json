@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Rippan\\.nuget\\packages\\": {}
+    "C:\\Users\\samka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Skola\\CSharp\\WorkShopV8\\WorkShopV8.csproj",
+      "projectUniqueName": "C:\\Users\\samka\\Desktop\\programmering\\workshop-210224-grupp4\\WorkShopV8.csproj",
       "projectName": "WorkShopV8",
-      "projectPath": "C:\\Skola\\CSharp\\WorkShopV8\\WorkShopV8.csproj",
-      "packagesPath": "C:\\Users\\Rippan\\.nuget\\packages\\",
-      "outputPath": "C:\\Skola\\CSharp\\WorkShopV8\\obj\\",
+      "projectPath": "C:\\Users\\samka\\Desktop\\programmering\\workshop-210224-grupp4\\WorkShopV8.csproj",
+      "packagesPath": "C:\\Users\\samka\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\samka\\Desktop\\programmering\\workshop-210224-grupp4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rippan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\samka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
