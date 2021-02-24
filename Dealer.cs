@@ -30,13 +30,14 @@ namespace WorkShopV8
             }
         }
 
-    //     public static Deck getDeck(){
-    //     //loopa o fixa en lista deck eller nåt
-        
-    //     return 1;
-    //}
+        public int dealerValueofHand()
+        {
+            int sum = 0;
+            foreach (Card card in _dealerHand)
+            {
+                sum += card.value();
+            }
+            return sum;
+        }
     }
-
-
-    
 }

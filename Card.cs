@@ -16,7 +16,11 @@ namespace WorkShopV8
         }
 
         public void PrintCard(){
-            System.Console.WriteLine($"{_value} of {_suit} ");
+            System.Console.Write($"{_value} of {_suit} | ");
+        }
+        public int value()
+        {
+            return _value;
         }
     }
     // enum Suits

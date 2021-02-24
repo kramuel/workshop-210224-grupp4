@@ -7,10 +7,12 @@ namespace WorkShopV8
     {
 
         private Deck _dealerDeck;
+        private int _points;
         public List<Card> _playerHand;
 
-        public Player(Deck deck)
+        public Player(Deck deck, int points)
         {
+            _points = points;
             _dealerDeck = deck;
             _playerHand = new List<Card>();
         }
@@ -30,6 +32,23 @@ namespace WorkShopV8
             {
                 card.PrintCard();
             }
+        }
+        public int playerValueofHand()
+        {
+            int sum = 0;
+            foreach (Card card in _playerHand)
+            {
+                sum += card.value();
+            }
+            return sum;
+        }
+        public int playerPoints()
+        {
+            return _points;
+        }
+        public void addPoints(int bet)
+        {
+            _points += (bet * 2) - bet;
         }
 
     }

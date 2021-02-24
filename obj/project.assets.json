@@ -8,23 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Rippan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\school\\workshop-210224-grupp4\\WorkShopV8.csproj",
+      "projectUniqueName": "C:\\Skola\\CSharp\\workshop-210224-grupp4\\WorkShopV8.csproj",
       "projectName": "WorkShopV8",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\school\\workshop-210224-grupp4\\WorkShopV8.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\school\\workshop-210224-grupp4\\obj\\",
+      "projectPath": "C:\\Skola\\CSharp\\workshop-210224-grupp4\\WorkShopV8.csproj",
+      "packagesPath": "C:\\Users\\Rippan\\.nuget\\packages\\",
+      "outputPath": "C:\\Skola\\CSharp\\workshop-210224-grupp4\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rippan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
