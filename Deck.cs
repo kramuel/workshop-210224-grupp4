@@ -7,7 +7,7 @@ namespace WorkShopV8
     {
         public List<Card> _deck;
 
-    
+
         public Deck(){
 
             _deck = new List<Card>();
