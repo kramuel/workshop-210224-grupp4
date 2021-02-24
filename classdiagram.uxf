@@ -1,0 +1,31 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>310</x><y>140</y><w>210</w><h>190</h></coordinates><panel_attributes>Spelare
+--
+Kort på handen
+Insats
+Bank
+
+
+
+
+--
+giveCard()
+checkBank()
+deposit()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>640</x><y>140</y><w>210</w><h>190</h></coordinates><panel_attributes>Dealer
+--
+Kort på handen
+Lista av kort kvar i kortlek
+
+
+
+
+
+--
+giveCard()
+compareCards()
+requestDeck()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>480</x><y>400</y><w>210</w><h>70</h></coordinates><panel_attributes>Kort
+--
+Värde
+Färg 
+Korttype
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>620</x><y>330</y><w>100</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;.
+52 Objekt</panel_attributes><additional_attributes>50;10;10;60</additional_attributes></element><element><id>Relation</id><coordinates><x>510</x><y>230</y><w>150</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;130;50</additional_attributes></element></diagram>
