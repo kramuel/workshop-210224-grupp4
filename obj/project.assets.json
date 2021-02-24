@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\samka\\.nuget\\packages\\": {}
+    "C:\\Users\\Olivi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samka\\Desktop\\programmering\\workshop-210224-grupp4\\WorkShopV8.csproj",
+      "projectUniqueName": "C:\\Users\\Olivi\\source\\repos\\workshop-210224-grupp4\\WorkShopV8.csproj",
       "projectName": "WorkShopV8",
-      "projectPath": "C:\\Users\\samka\\Desktop\\programmering\\workshop-210224-grupp4\\WorkShopV8.csproj",
-      "packagesPath": "C:\\Users\\samka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samka\\Desktop\\programmering\\workshop-210224-grupp4\\obj\\",
+      "projectPath": "C:\\Users\\Olivi\\source\\repos\\workshop-210224-grupp4\\WorkShopV8.csproj",
+      "packagesPath": "C:\\Users\\Olivi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Olivi\\source\\repos\\workshop-210224-grupp4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\samka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Olivi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

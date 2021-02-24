@@ -12,25 +12,25 @@ namespace WorkShopV8
 
             _deck = new List<Card>();
             
-            for (var i = 1; i <= 13; i++)
+            for (var i = 2; i <= 13; i++)
             {
                 _deck.Add(new Card("Hearts", i, false));
             }
             _deck.Add(new Card("Hearts", 14, true));
 
-            for (var i = 1; i <= 13; i++)
+            for (var i = 2; i <= 13; i++)
             {
                 _deck.Add(new Card("Clubs", i, false));
             }
             _deck.Add(new Card("Clubs", 14, true));
 
-            for (var i = 1; i <= 13; i++)
+            for (var i = 2; i <= 13; i++)
             {
                 _deck.Add(new Card("Spades", i, false));
             }
             _deck.Add(new Card("Spades", 14, true));
 
-            for (var i = 1; i <= 13; i++)
+            for (var i = 2; i <= 13; i++)
             {
                 _deck.Add(new Card("Diamonds", i, false));
             }
