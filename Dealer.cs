@@ -8,9 +8,9 @@ namespace WorkShopV8
         private Deck _dealerDeck;
         public List<Card> _dealerHand;
 
-        public Dealer()
+        public Dealer(Deck deck)
         {
-            _dealerDeck = new Deck();
+            _dealerDeck = deck;
             _dealerHand = new List<Card>();
         }
 
