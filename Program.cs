@@ -6,10 +6,10 @@ namespace WorkShopV8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Dealer d1 = new Dealer();
+            d1.requestCard();
 
-            Deck deck = new Deck();
-            deck.PrintDeck();
+            d1.showCards();
 
             Console.ReadKey();
         }
